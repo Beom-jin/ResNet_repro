@@ -1,0 +1,4 @@
+['resnet110', 'resnet110_nores', 'resnet1202', 'resnet1202_nores', 'resnet20', 'resnet20_nores', 'resnet32', 'resnet32_nores', 'resnet44', 'resnet44_nores', 'resnet56', 'resnet56_nores']
+Files already downloaded and verified
+current lr 1.00000e-02
+Inconsistency detected by ld.so: ../elf/dl-tls.c: 481: _dl_allocate_tls_init: Assertion `listp->slotinfo[cnt].gen <= GL(dl_tls_generation)' failed!
