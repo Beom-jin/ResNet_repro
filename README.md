@@ -18,3 +18,10 @@ save_cosine_[model name] : Using Cosine Scheduler
 save_lr_001_[model name] : Learning Rate Tuning  
 save_[model_name]_base : Base Line Model  
 save_[model_name]_nores : Residual Abalation Study  
+
+### Train Detail (LOG File)
+
+log_cosine_[model name] : Using Cosine Scheduler  
+log_lr_001_[model name] : Learning Rate Tuning  
+log_[model_name]_base : Base Line Model  
+log_[model_name]_nores : Residual Abalation Study 
